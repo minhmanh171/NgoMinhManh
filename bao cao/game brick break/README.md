@@ -21,7 +21,8 @@
 >- score INT NOT NULL,
 >- level INT NOT NULL
 > );
-# Trước khi chạy game cần đổi cổng,user name,passworld trong connectJdbc.java
+# Trước khi chạy game cần đổi db,user ,passworld trong connectJdbc.java
+![anh](src/assets/markdown/jdbcn1.PNG)
 # Cách để chạy trên máy chỉ có JDk
 
 - Bước 1: Cần chuyển về thư mục chứa file
