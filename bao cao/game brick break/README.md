@@ -25,7 +25,7 @@
 # Cách để chạy trên máy chỉ có JDk
 
 - Bước 1: Cần chuyển về thư mục chứa file
-ở đây là ổ vi du la o D
+ở đây là ổ D
 > D:
 - ![anh 1](src/assets/markdown/cmd1.PNG)
 -Bước 2: Gõ lệnh sau
@@ -35,6 +35,8 @@
 >javac Main.java gamePanel.java Brick.java Ball.java Paddle.java connectJdbc.java
 - ![anh 3](src/assets/markdown/cmd3.PNG)
 - Bước 4:Gõ lệnh sau để chạy
+> java -cp ".;ổ đĩa\bao cao\game brick break\lib\mysql-connector-j-8.0.33.jar" Main
+- ở đây là ổ D
 > java -cp ".;D:\bao cao\game brick break\lib\mysql-connector-j-8.0.33.jar" Main
 
 - ![anh 4](src/assets/markdown/cmd4.PNG)
