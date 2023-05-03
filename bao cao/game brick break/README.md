@@ -29,7 +29,7 @@
 ở đây là ổ D
 > D:
 - ![anh 1](src/assets/markdown/cmd1.PNG)
--Bước 2: Gõ lệnh sau
+- Bước 2: Gõ lệnh sau
 > Cd bao cao\game brick break\src
 - ![anh 2](src/assets/markdown/cmd2.PNG)
 - Bước 3: Gõ tiếp
