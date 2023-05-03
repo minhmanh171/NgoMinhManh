@@ -21,7 +21,7 @@
 >- score INT NOT NULL,
 >- level INT NOT NULL
 > );
-# Trước khi chạy game cần đổi db,user ,passworld trong connectJdbc.java
+# Trước khi chạy game cần đổi db_url,user ,passworld trong connectJdbc.java
 ![anh](src/assets/markdown/jdbcn1.PNG)
 # Cách để chạy trên máy chỉ có JDk
 
@@ -35,7 +35,7 @@
 - Bước 3: Gõ tiếp
 >javac Main.java gamePanel.java Brick.java Ball.java Paddle.java connectJdbc.java
 - ![anh 3](src/assets/markdown/cmd3.PNG)
-- Bước 4:Gõ lệnh sau để chạy
+- Bước 4:Thêm jdbc và chạy chương trình
 > java -cp ".;ổ đĩa\bao cao\game brick break\lib\mysql-connector-j-8.0.33.jar" Main
 - ở đây là ổ D
 > java -cp ".;D:\bao cao\game brick break\lib\mysql-connector-j-8.0.33.jar" Main
